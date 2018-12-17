@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {View} from 'react-native';
+import {View} from 'react-native';;
 import {RootNavagator} from './src/routs';
 
 
